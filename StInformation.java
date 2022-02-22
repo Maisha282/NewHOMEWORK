@@ -14,8 +14,8 @@ public class StInformation {
 		s2.cgpa = 3.5;
 		s2.StudentInfo();
 
-		System.out.println(s1.counter);
-		System.out.println(s2.counter);
+		System.out.println(Student.counter);
+		
 		
 	}
 
