@@ -4,7 +4,7 @@ public class Student {
         String name;
         int id;
         double cgpa;
-         int counter = 0;
+       static  int counter = 0;
       Student(){// No-Argument Constructor or Default Constructor
 	   counter++;
  }
